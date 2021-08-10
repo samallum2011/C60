@@ -1,0 +1,23 @@
+body{
+    margin: 0; 
+    text-align: center;
+}
+#apps{
+    width:100%;
+    background:linear-gradient(rgb(143, 45, 223) 0%, rgb(65, 134, 199) 100%);
+}
+#games{
+    width:100%;
+    background:linear-gradient(rgb(143, 45, 223) 0%, rgb(65, 134, 199) 100%);
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform:scale(0.9);
+}
+
+#chatbot{
+    width:100%;
+    background:linear-gradient(rgb(143, 45, 223) 0%, rgb(65, 134, 199) 100%);
+}
